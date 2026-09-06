@@ -4,6 +4,8 @@
 >
 > ⚠️ *Use only in networks onde você tem autorização explícita. ARP poisoning em redes sem permissão é crime.*
 
+
+## `Developed by: HKK`
 ---
 
 ## `$ cat ./objective.txt`
